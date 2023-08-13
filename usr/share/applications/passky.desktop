@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Passky
+Exec=/opt/Passky/passky %U
+Terminal=false
+Type=Application
+Icon=passky
+StartupWMClass=Passky
+Comment=Simple, modern, open source and secure password manager.
+Categories=Utility;
